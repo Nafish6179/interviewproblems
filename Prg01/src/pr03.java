@@ -7,5 +7,8 @@ public class pr03 {
         System.out.println("i am arish");
         System.out.println("a :"+ a);
         System.out.println("b :"+b);
+
+        System.out.println("this is the features 01");
+        System.out.println("this is the features on changes");
     }
 }
